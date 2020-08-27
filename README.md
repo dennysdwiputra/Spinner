@@ -1,0 +1,2 @@
+# Spinner
+Memutar List counterclockwise
